@@ -1,6 +1,6 @@
 ﻿namespace EdukosSchool
 {
-    class Person
+    abstract class Person
     {
         private string name;
         private string lastName;
